@@ -216,9 +216,3 @@ Vérifiez toujours le champ `success` (et le statut HTTP) avant de lire `message
 5. Affichez `message` en **Markdown**.
 6. Comme il n'y a pas encore de mémoire de conversation, incluez tout le contexte pertinent directement dans `message_content`.
 
----
-
-## PDF de référence
-
-La version PDF originale de cette documentation est disponible dans ce dépôt :
-[`chatx3-api-documentation-v1.pdf`](chatx3-api-documentation-v1%20(2).pdf)
